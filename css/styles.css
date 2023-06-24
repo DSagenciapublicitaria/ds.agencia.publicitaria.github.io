@@ -1,0 +1,22 @@
+.columna {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .boton {
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #3b5998; /* Color de fondo de Facebook */
+    color: #fff; /* Color de texto */
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .boton:hover {
+    background-color: #2d4373; /* Cambio de color de fondo al pasar el ratón sobre el botón */
+  }
+  
